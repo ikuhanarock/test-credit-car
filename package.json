@@ -2,7 +2,7 @@
   "name": "test-credit-car",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ikuhanarock.github.io/test-credit-car",
+  "homepage": "https://ikuhanarock.github.io/test-credit-car/",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
