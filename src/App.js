@@ -13,7 +13,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Card Number: <input type="tel" name="cardNumber" /></p>
+        <p>Card Number: <input type="text" name="cardNumber" /></p>
         <p>
           <select name="cardExpirationMonth">
             <option value="1" selected="selected">01</option>
